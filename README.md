@@ -1,8 +1,8 @@
 # Cartoonify-Image
 
-This project is gui-based cartoonify applidation.
+This project is gui-based cartoonify application.
 
-## Results:
+## Results
 
 | Image      | Cartoon |
 | ----------- | ----------- |
